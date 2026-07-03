@@ -2,7 +2,6 @@
 //  Card.h
 //  Blackjack 
 //
-//  Created by Howard Stahl on 6/6/23.
 //
 
 #ifndef CARD
