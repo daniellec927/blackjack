@@ -6,7 +6,7 @@
 
 #include "Card.h"
 
-namespace cs32
+namespace core
 {
 
 Card::Card()
