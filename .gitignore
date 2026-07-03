@@ -1,0 +1,20 @@
+# Build output
+*.o
+*.out
+*.exe
+*.app
+a.out
+build/
+
+# macOS
+.DS_Store
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# IDEs
+.vscode/
+.idea/
