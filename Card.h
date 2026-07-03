@@ -10,7 +10,7 @@
 #include <string>
 #include "Enums.h"
 
-namespace cs32
+namespace core
 {
 
 // this class represents a single playing card in a
