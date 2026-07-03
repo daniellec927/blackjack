@@ -6,7 +6,7 @@
 
 #include "Hand.h"
 
-namespace cs32
+namespace core
 {
 
 
