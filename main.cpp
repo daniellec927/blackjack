@@ -11,7 +11,7 @@
 #include "Hand.h"
 
 using namespace std;
-using namespace cs32;
+using namespace core;
 
 int main() {
     Card c;
