@@ -7,7 +7,7 @@
 #ifndef ENUM_H
 #define ENUM_H
 
-namespace cs32
+namespace core
 {
     enum class Suit { HEARTS, CLUBS, DIAMONDS, SPADES };
     enum class Face { ACE, DEUCE, THREE, FOUR, FIVE, SIX, SEVEN,
