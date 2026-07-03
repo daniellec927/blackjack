@@ -2,7 +2,6 @@
 //  Hand.cpp
 //  Blackjack 
 //
-//  Created by Howard Stahl on 6/6/23.
 //
 
 #include "Hand.h"
@@ -26,7 +25,6 @@ Card Hand::getCard2() const
     return( mCard2 );
 }
 
-//The evaluateHand operation should implement the strategy table shown above based on the Hand's two Cards and the supplied dealerCard.
 Choice Hand::evaluateHand( Card dealerCard ) const
 {
     // by default STAND
