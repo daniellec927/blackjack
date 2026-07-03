@@ -2,7 +2,6 @@
 //  Hand.h
 //  Blackjack 
 //
-//  Created by Howard Stahl on 6/6/23.
 //
 
 #ifndef HAND_H
@@ -25,7 +24,6 @@ public:
     Card getCard2() const;
     
     // for a dealers card, what should the player's move be
-    // based on the strategy card provided in the assignment?
     Choice evaluateHand( Card dealerCard ) const;
     
     // is this hand made up of two matching Face cards?
