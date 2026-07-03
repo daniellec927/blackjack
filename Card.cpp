@@ -2,7 +2,6 @@
 //  Card.cpp
 //  Blackjack 
 //
-//  Created by Howard Stahl on 6/6/23.
 //
 
 #include "Card.h"
