@@ -10,7 +10,7 @@
 #include "Card.h"
 #include "Enums.h"
 
-namespace cs32
+namespace core
 {
 
 // this class represents an opening blackjack player hand of
