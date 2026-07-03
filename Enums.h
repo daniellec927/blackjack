@@ -2,7 +2,6 @@
 //  Enums.h
 //  Blackjack 
 //
-//  Created by Howard Stahl on 6/9/23.
 //
 
 #ifndef ENUM_H
